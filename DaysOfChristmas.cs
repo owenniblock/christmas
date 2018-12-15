@@ -1,6 +1,6 @@
 public class DaysOfChristmas
 {
-  public List<Gift> FromMyTrueLove(byte dayOfChristmas)
+  public List<Gift> PresentsFromTrueLoveByDay(byte dayOfChristmas)
   {
     switch (caseSwitch)
     {
